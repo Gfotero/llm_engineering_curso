@@ -175,3 +175,8 @@ products_vectorstore/
 # ignore gradio private files
 .gradio
 /.gradio
+
+# --- Archivos Confidenciales Adicionales ---
+# Archivo confidencial específico
+API_OpenAI Curso Agentes AI.txt
+
