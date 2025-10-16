@@ -1,0 +1,362 @@
+[
+  {
+    "empresa": "Supermercados SA",
+    "familia_cargo": "Vendedor",
+    "cargo": "Cajero",
+    "nivel": 1,
+    "tienda_tier": 1,
+    "ubicacion": {
+      "pais": "México",
+      "ciudad": "Ciudad de México",
+      "indice_costo_vida": : 0.8
+    },
+    "moneda": "MXN",
+    "horas_semanales": 30,
+    "tipo_contrato": "Indefinido",
+    "turno": "diurno",
+    "salario_base_mensual": 15000,
+    "salario_base_hora": 7.78,
+    "porc_bono_variable": 0.15,
+    "asignaciones": {
+      "transporte": 500,
+      "tarjeta_alimentacion": 1000,
+      "asistencia": 500,
+      "porc_diferencial_nocturno": : 0
+    },
+    "beneficios": "Vacaciones, Feriados",
+    "fecha_propuesta": "2023-07-26",
+    "justificacion": "Oferta salarial",
+    "estimados_usd": {
+      "base_usd": 15000.0,
+      "asignaciones_usd": 2000.0,
+      "total_efectivo_usd": : 15000 * 1.0 + (500 + 1000 + 500 + (15000 * 0.15)) * 1.0
+    },
+    "restricciones": {
+      "salario_minimo_mensual": : 10000
+    }
+  },
+  {
+    "empresa": "Supermercados SA",
+    "familia_cargo": "Vendedor",
+    "cargo": "Repositor",
+    "nivel": 2,
+    "tienda_tier": 2,
+    "ubicacion": {
+      "pais": "México",
+      "ciudad": "Ciudad de México",
+      "indice_costo_vida": : 0.8
+    },
+    "moneda": "MXN",
+    "horas_semanales": 35,
+    "tipo_contrato": "Indefinido",
+    "turno": "diurno",
+    "salario_base_mensual": 20000,
+    "salario_base_hora": 9.32,
+    "porc_bono_variable": 0.2,
+    "asignaciones": {
+      "transporte": 1000,
+      "tarjeta_alimentacion": 2000,
+      "asistencia": 1000,
+      "porc_diferencial_nocturno": : 0
+    },
+    "beneficios": "Vacaciones, Feriados, Seguro de vida",
+    "fecha_propuesta": "2023-07-26",
+    "justificacion": "Oferta salarial",
+    "estimados_usd": {
+      "base_usd": 20000.0,
+      "asignaciones_usd": 4000.0,
+      "total_efectivo_usd": : 20000 * 1.0 + (1000 + 2000 + 1000 + (20000 * 0.2)) * 1.0
+    },
+    "restricciones": {
+      "salario_minimo_mensual": : 12000
+    }
+  },
+  {
+    "empresa": "Supermercados SA",
+    "familia_cargo": "Vendedor",
+    "cargo": "Carnicero",
+    "nivel": 3,
+    "tienda_tier": 3,
+    "ubicacion": {
+      "pais": "México",
+      "ciudad": "Ciudad de México",
+      "indice_costo_vida": : 0.8
+    },
+    "moneda": "MXN",
+    "horas_semanales": 40,
+    "tipo_contrato": "Indefinido",
+    "turno": "diurno",
+    "salario_base_mensual": 25000,
+    "salario_base_hora": 10.96,
+    "porc_bono_variable": 0.25,
+    "asignaciones": {
+      "transporte": 1500,
+      "tarjeta_alimentacion": 3000,
+      "asistencia": 1500,
+      "porc_diferencial_nocturno": : 0
+    },
+    "beneficios": "Vacaciones, Feriados, Seguro de vida, Plan de pensiones",
+    "fecha_propuesta": "2023-07-26",
+    "justificacion": "Oferta salarial",
+    "estimados_usd": {
+      "base_usd": 25000.0,
+      "asignaciones_usd": 6000.0,
+      "total_efectivo_usd": : 25000 * 1.0 + (1500 + 3000 + 1500 + (25000 * 0.25)) * 1.0
+    },
+    "restricciones": {
+      "salario_minimo_mensual": : 15000
+    }
+  },
+  {
+    "empresa": "Supermercados SA",
+    "familia_cargo": "Vendedor",
+    "cargo": "Charcutero",
+    "nivel": 4,
+    "tienda_tier": 4,
+    "ubicacion": {
+      "pais": "México",
+      "ciudad": "Ciudad de México",
+      "indice_costo_vida": : 0.8
+    },
+    "moneda": "MXN",
+    "horas_semanales": 45,
+    "tipo_contrato": "Indefinido",
+    "turno": "diurno",
+    "salario_base_mensual": 30000,
+    "salario_base_hora": 12.73,
+    "porc_bono_variable": 0.3,
+    "asignaciones": {
+      "transporte": 2000,
+      "tarjeta_alimentacion": 4000,
+      "asistencia": 2000,
+      "porc_diferencial_nocturno": : 0
+    },
+    "beneficios": "Vacaciones, Feriados, Seguro de vida, Plan de pensiones, Ayuda a la educación",
+    "fecha_propuesta": "2023-07-26",
+    "justificacion": "Oferta salarial",
+    "estimados_usd": {
+      "base_usd": 30000.0,
+      "asignaciones_usd": 8000.0,
+      "total_efectivo_usd": : 30000 * 1.0 + (2000 + 4000 + 2000 + (30000 * 0.3)) * 1.0
+    },
+    "restricciones": {
+      "salario_minimo_mensual": : 18000
+    }
+  },
+  {
+    "empresa": "Supermercados SA",
+    "familia_cargo": "Vendedor",
+    "cargo": "Panadero",
+    "nivel": 5,
+    "tienda_tier": 5,
+    "ubicacion": {
+      "pais": "México",
+      "ciudad": "Ciudad de México",
+      "indice_costo_vida": : 0.8
+    },
+    "moneda": "MXN",
+    "horas_semanales": 50,
+    "tipo_contrato": "Indefinido",
+    "turno": "diurno",
+    "salario_base_mensual": 35000,
+    "salario_base_hora": 14.73,
+    "porc_bono_variable": 0.35,
+    "asignaciones": {
+      "transporte": 2500,
+      "tarjeta_alimentacion": 5000,
+      "asistencia": 2500,
+      "porc_diferencial_nocturno": : 0
+    },
+    "beneficios": "Vacaciones, Feriados, Seguro de vida, Plan de pensiones, Ayuda a la educación, Plan de salud",
+    "fecha_propuesta": "2023-07-26",
+    "justificacion": "Oferta salarial",
+    "estimados_usd": {
+      "base_usd": 35000.0,
+      "asignaciones_usd": 10000.0,
+      "total_efectivo_usd": : 35000 * 1.0 + (2500 + 5000 + 2500 + (35000 * 0.35)) * 1.0
+    },
+    "restricciones": {
+      "salario_minimo_mensual": : 20000
+    }
+  },
+  {
+    "empresa": "Supermercados SA",
+    "familia_cargo": "Vendedor",
+    "cargo": "Pescadero",
+    "nivel": 6,
+    "tienda_tier": 6,
+    "ubicacion": {
+      "pais": "México",
+      "ciudad": "Ciudad de México",
+      "indice_costo_vida": : 0.8
+    },
+    "moneda": "MXN",
+    "horas_semanales": 55,
+    "tipo_contrato": "Indefinido",
+    "turno": "diurno",
+    "salario_base_mensual": 40000,
+    "salario_base_hora": 16.78,
+    "porc_bono_variable": 0.4,
+    "asignaciones": {
+      "transporte": 3000,
+      "tarjeta_alimentacion": 6000,
+      "asistencia": 3000,
+      "porc_diferencial_nocturno": : 0
+    },
+    "beneficios": "Vacaciones, Feriados, Seguro de vida, Plan de pensiones, Ayuda a la educación, Plan de salud, Ayuda a la vivienda",
+    "fecha_propuesta": "2023-07-26",
+    "justificacion": "Oferta salarial",
+    "estimados_usd": {
+      "base_usd": 40000.0,
+      "asignaciones_usd": 12000.0,
+      "total_efectivo_usd": : 40000 * 1.0 + (3000 + 6000 + 3000 + (40000 * 0.4)) * 1.0
+    },
+    "restricciones": {
+      "salario_minimo_mensual": : 22000
+    }
+  },
+  {
+    "empresa": "Supermercados SA",
+    "familia_cargo": "Gerente",
+    "cargo": "Supervisor de Caja",
+    "nivel": 7,
+    "tienda_tier": 7,
+    "ubicacion": {
+      "pais": "México",
+      "ciudad": "Ciudad de México",
+      "indice_costo_vida": : 0.8
+    },
+    "moneda": "MXN",
+    "horas_semanales": 60,
+    "tipo_contrato": "Indefinido",
+    "turno": "diurno",
+    "salario_base_mensual": 50000,
+    "salario_base_hora": 19.64,
+    "porc_bono_variable": 0.45,
+    "asignaciones": {
+      "transporte": 4000,
+      "tarjeta_alimentacion": 8000,
+      "asistencia": 4000,
+      "porc_diferencial_nocturno": : 0
+    },
+    "beneficios": "Vacaciones, Feriados, Seguro de vida, Plan de pensiones, Ayuda a la educación, Plan de salud, Ayuda a la vivienda, Plan de capacitación",
+    "fecha_propuesta": "2023-07-26",
+    "justificacion": "Oferta salarial",
+    "estimados_usd": {
+      "base_usd": 50000.0,
+      "asignaciones_usd": 16000.0,
+      "total_efectivo_usd": : 50000 * 1.0 + (4000 + 8000 + 4000 + (50000 * 0.45)) * 1.0
+    },
+    "restricciones": {
+      "salario_minimo_mensual": : 25000
+    }
+  },
+  {
+    "empresa": "Supermercados SA",
+    "familia_cargo": "Gerente",
+    "cargo": "Supervisor de Piso",
+    "nivel": 8,
+    "tienda_tier": 8,
+    "ubicacion": {
+      "pais": "México",
+      "ciudad": "Ciudad de México",
+      "indice_costo_vida": : 0.8
+    },
+    "moneda": "MXN",
+    "horas_semanales": 65,
+    "tipo_contrato": "Indefinido",
+    "turno": "diurno",
+    "salario_base_mensual": 60000,
+    "salario_base_hora": 22.51,
+    "porc_bono_variable": 0.5,
+    "asignaciones": {
+      "transporte": 5000,
+      "tarjeta_alimentacion": 10000,
+      "asistencia": 5000,
+      "porc_diferencial_nocturno": : 0
+    },
+    "beneficios": "Vacaciones, Feriados, Seguro de vida, Plan de pensiones, Ayuda a la educación, Plan de salud, Ayuda a la vivienda, Plan de capacitación, Plan de desarrollo profesional",
+    "fecha_propuesta": "2023-07-26",
+    "justificacion": "Oferta salarial",
+    "estimados_usd": {
+      "base_usd": 60000.0,
+      "asignaciones_usd": 20000.0,
+      "total_efectivo_usd": : 60000 * 1.0 + (5000 + 10000 + 5000 + (60000 * 0.5)) * 1.0
+    },
+    "restricciones": {
+      "salario_minimo_mensual": : 30000
+    }
+  },
+  {
+    "empresa": "Supermercados SA",
+    "familia_cargo": "Gerente",
+    "cargo": "Gerente de Tienda",
+    "nivel": 9,
+    "tienda_tier": 9,
+    "ubicacion": {
+      "pais": "México",
+      "ciudad": "Ciudad de México",
+      "indice_costo_vida": : 0.8
+    },
+    "moneda": "MXN",
+    "horas_semanales": 70,
+    "tipo_contrato": "Indefinido",
+    "turno": "diurno",
+    "salario_base_mensual": 70000,
+    "salario_base_hora": 25.46,
+    "porc_bono_variable": 0.55,
+    "asignaciones": {
+      "transporte": 6000,
+      "tarjeta_alimentacion": 12000,
+      "asistencia": 6000,
+      "porc_diferencial_nocturno": : 0
+    },
+    "beneficios": "Vacaciones, Feriados, Seguro de vida, Plan de pensiones, Ayuda a la educación, Plan de salud, Ayuda a la vivienda, Plan de capacitación, Plan de desarrollo profesional, Plan de incentivos",
+    "fecha_propuesta": "2023-07-26",
+    "justificacion": "Oferta salarial",
+    "estimados_usd": {
+      "base_usd": 70000.0,
+      "asignaciones_usd": 24000.0,
+      "total_efectivo_usd": : 70000 * 1.0 + (6000 + 12000 + 6000 + (70000 * 0.55)) * 1.0
+    },
+    "restricciones": {
+      "salario_minimo_mensual": : 35000
+    }
+  },
+  {
+    "empresa": "Supermercados SA",
+    "familia_cargo": "Gerente",
+    "cargo": "Supervisor Prevención de Pérdidas",
+    "nivel": 10,
+    "tienda_tier": 10,
+    "ubicacion": {
+      "pais": "México",
+      "ciudad": "Ciudad de México",
+      "indice_costo_vida": : 0.8
+    },
+    "moneda": "MXN",
+    "horas_semanales": 75,
+    "tipo_contrato": "Indefinido",
+    "turno": "diurno",
+    "salario_base_mensual": 80000,
+    "salario_base_hora": 29.42,
+    "porc_bono_variable": 0.6,
+    "asignaciones": {
+      "transporte": 7000,
+      "tarjeta_alimentacion": 14000,
+      "asistencia": 7000,
+      "porc_diferencial_nocturno": : 0
+    },
+    "beneficios": "Vacaciones, Feriados, Seguro de vida, Plan de pensiones, Ayuda a la educación, Plan de salud, Ayuda a la vivienda, Plan de capacitación, Plan de desarrollo profesional, Plan de incentivos, Plan de reconocimiento",
+    "fecha_propuesta": "2023-07-26",
+    "justificacion": "Oferta salarial",
+    "estimados_usd": {
+      "base_usd": 80000.0,
+      "asignaciones_usd": 28000.0,
+      "total_efectivo_usd": : 80000 * 1.0 + (7000 + 14000 + 7000 + (80000 * 0.6)) * 1.0
+    },
+    "restricciones": {
+      "salario_minimo_mensual": : 40000
+    }
+  }
+]
